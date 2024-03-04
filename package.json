@@ -1,0 +1,27 @@
+{
+  "name": "golyyy",
+  "version": "1.0.0",
+  "description": "A sample application demonstrating the usage of SimpleOwnProject for state management.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loryhyu1090/using.git"
+  },
+  "keywords": [
+    "state management",
+    "simpleownproject",
+    "golyyy"
+  ],
+  "author": "loryhyu1090",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "simpleownproject": "^1.0.0"
+  }
+}
